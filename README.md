@@ -1,4 +1,4 @@
-# Bootcamp-Database-Desafio-Oficina-Mecânica
+# DIO Bootcamp-Database-Desafio-Oficina-Mecânica
 
 
 Criar um esquema conceitual constando os seguintes ítens:
